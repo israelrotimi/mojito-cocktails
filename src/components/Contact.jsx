@@ -47,12 +47,12 @@ const Contact = () => {
 
         <div>
           <h3>Visit Our Bar</h3>
-          <p>456, Raq Blvd. #404, Los Angeles, CA 90210</p>
+          <p>123, Nile Street, Maitama District, Abuja, Nigeria</p>
         </div>
 
         <div>
           <h3>Contact Us</h3>
-          <p>(123) 456-7890</p>
+          <p>+234 916 559 4890</p>
           <p>contact@izzycocktail.com</p>
         </div>
 
